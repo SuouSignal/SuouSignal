@@ -35,7 +35,7 @@ An educational Chrome and Edge extension that detects directly accessible media 
 ## Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode" alt="JavaScript, HTML, CSS, Git, GitHub and VS Code" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode" alt="JavaScript, HTML, CSS, Git, GitHub and VS Code" />
 </p>
 
 ## GitHub activity
